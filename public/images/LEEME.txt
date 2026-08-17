@@ -1,0 +1,13 @@
+Coloca aquí tus fotografías con estos nombres exactos:
+
+nosotros-1.jpg
+nosotros-2.jpg
+nosotros-3.jpg
+nosotros-4.jpg
+
+Puedes agregar más fotos editando el archivo:
+src/data/memories.js
+
+Mientras no exista una foto, la página muestra automáticamente
+un marcador elegante en su lugar, así que no hay problema en
+publicar el sitio antes de tener todas las imágenes listas.
